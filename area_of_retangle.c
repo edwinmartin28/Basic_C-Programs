@@ -1,3 +1,4 @@
+//C program for finding the area of a rectangle
 #include<stdio.h>
 int main()
 {
