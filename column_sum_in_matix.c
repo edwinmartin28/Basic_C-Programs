@@ -2,6 +2,7 @@
 #include<stdio.h>
 int main()
 {
+    system("cls");  
     int a[10][10],i,j,row,col,sum[10]={0};
     printf("Enter the order of matrix :");
     scanf("%d%d",&row,&col);
