@@ -2,7 +2,8 @@
 #include<stdio.h>
 void smallcase(char a[]);
 int main()
-{  
+{
+    system("cls");   
     char a[50];
     printf("Enter a character :");
     gets(a);

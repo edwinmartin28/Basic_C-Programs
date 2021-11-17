@@ -2,6 +2,7 @@
 #include<stdio.h>
 int main()
 {
+    system("cls"); 
     char a[50];
     int i,n=0;
     printf("Enter a string(Capital Letters) :");
