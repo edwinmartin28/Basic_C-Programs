@@ -1,3 +1,4 @@
+//C program to find the perfect square numbers in an array.
 #include<stdio.h>
 #include<math.h>
 int main()
