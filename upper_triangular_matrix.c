@@ -1,3 +1,4 @@
+//C program to find the upper triangular matrix.
 #include<stdio.h>
 int main()
   {

@@ -1,3 +1,4 @@
+//C program to find the sum of N numbers.
 #include<stdio.h>
 int main()
 {
