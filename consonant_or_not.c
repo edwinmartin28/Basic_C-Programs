@@ -1,3 +1,4 @@
+//C program to check whether the entered alphabet is a consonant or not using
 #include <stdio.h>
 int main()
 {

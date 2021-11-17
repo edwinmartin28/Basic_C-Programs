@@ -3,6 +3,7 @@
 #include <math.h>
 int main()
 {
+  system("cls"); 
   float x1,y1,z1,x2,y2,z2,s;
   printf("Enter the first coordinates :");
   scanf("%f%f%f",&x1,&y1,&z1);

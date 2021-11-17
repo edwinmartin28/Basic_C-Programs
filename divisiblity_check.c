@@ -1,3 +1,4 @@
+//C program to check whether the divisiblity of the elements
 #include<stdio.h>
 int main()
 {

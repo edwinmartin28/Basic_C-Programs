@@ -1,3 +1,4 @@
+//C program to count the number of 3 digits numbers in a string.
 #include<stdio.h>
 int main()
 {
