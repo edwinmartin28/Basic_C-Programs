@@ -1,3 +1,4 @@
+//C program to find the multiples of 3 and 5.
 #include<stdio.h>
 int main()
 {

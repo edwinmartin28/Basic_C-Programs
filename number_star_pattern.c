@@ -1,3 +1,4 @@
+//C program to generate the number star pattern.
 #include<stdio.h>  
 int main()  
 {  
