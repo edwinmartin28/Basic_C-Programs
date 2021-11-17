@@ -13,7 +13,7 @@ int main()
     	rew= n%10;
     	s++;
     	n = n/10;
-	}
+	  }
     n= r;
     while (n>=1)
     {
