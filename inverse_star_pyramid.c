@@ -1,3 +1,4 @@
+//C program to display a star pyramid inversily.
 #include <stdio.h>  
 int main()  
 {  

@@ -1,6 +1,8 @@
+//C program to LCM and HCF of two Numbers.
 #include<stdio.h>
 int main()
 {
+	 system("cls");  
 	 int a,b,hcf,lcm,i;
 	 printf("Enter first number: ");
 	 scanf("%d",&a);

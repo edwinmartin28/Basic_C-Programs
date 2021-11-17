@@ -1,6 +1,8 @@
+//C program do Linear Search.
 #include<stdio.h>
 int main()
 {
+  system("cls"); 
   int a[100],search,i,n;
   printf("Enter number of elements in array :");
   scanf("%d",&n);

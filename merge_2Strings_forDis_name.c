@@ -2,6 +2,7 @@
 #include<string.h>
 int main()
 {
+    system("cls"); 
     char a[50],b[50];
     printf("Enter your first name : ");
     scanf("%s",a);

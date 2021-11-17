@@ -1,3 +1,4 @@
+//C program to print the first N numbers in an array.
 #include <stdio.h>
 int main()
 {
