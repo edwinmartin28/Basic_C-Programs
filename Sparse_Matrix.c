@@ -1,3 +1,4 @@
+//c program to convert a matrix into Sparse Matrix representation and the transpose of the entered matrix into sparse matrix format
 #include<stdio.h>
 void sparse_matrix(int a[10][10],int row,int col);
 void transpose_sparse(int b[10][10],int n);
