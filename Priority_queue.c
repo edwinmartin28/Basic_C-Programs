@@ -79,11 +79,14 @@ void Enqueue()
 
 void Dequeue()
 {
-    if(front==-1&&rear==-1)
+    if(front==-1)
      printf("\nQueue is empty\n");
     else
      {
       printf("Deleted \n value =  %d\tpriority = %d",E[front].value,E[front].priority);
+      if(front==rear)
+       front =rear= -1;
+      else 
        front++;
      }
 }
